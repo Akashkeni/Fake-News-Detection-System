@@ -58,11 +58,6 @@ This project leverages machine learning models to analyze and predict whether a 
 * `visualize.py`: Script for generating animated charts to visualize the prediction results.
 * `knowmore.py`: Provides an information panel explaining the app and the ML models used.
 
-## For Issues
-
-If you encounter any issues or need further assistance, feel free to reach out at:
-**Email**: [patheshreyas7@gmail.com](mailto:patheshreyas7@gmail.com)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
